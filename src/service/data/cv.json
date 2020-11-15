@@ -200,7 +200,7 @@
           "Part of a team of backend Java devs designing and developing several Java 8 microservices and AWS lambdas such as product, inventory, catalogue as part of a digital platform across website & apps ensuring high availability.",
           "Team Lead from June 2020 for group of 4 software engineers.",
           "Developed & supported (through go live) new microservice for mobile switching as part of Ofcom regulation with tight deadlines and regular changing requirements.",
-          "Implemented inventory and product services changes for iPhone 12 release (Oct 2020) and support release in prod, with increased data load out-of-hours using a tailored <b>application scaling policy</b> within the CloudFormation templates.",
+          "Implemented inventory and product services changes for iPhone 12 release (Oct 2020) and support release in prod, with increased data load out-of-hours using a tailored <b>application scaling policy</b> within the CloudFormation templates - app live monitoring in AWS and datadog",
           "Followed a TDD approach with unit, integration and acceptance test - pomodoro pairing service development style.",
           "Use of SonarQube within pipeline for static analysis and a final check of code quality",
           "Took part in team hackathon to build and demonstrate a POC using Resilience4J for circuit breaking and retry mechanism",
