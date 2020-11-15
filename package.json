@@ -2,6 +2,7 @@
   "name": "reactjs-cv",
   "version": "1.0.0",
   "private": true,
+  "homepage": "http://jaygehlot.github.io/react-cv/",
   "dependencies": {
     "@material-ui/core": "^4.9.12",
     "@material-ui/icons": "^4.9.1",
