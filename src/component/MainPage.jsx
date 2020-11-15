@@ -11,6 +11,7 @@ import CareerHistory from "./CareerHistory";
 import Section from "./Section";
 import Education from "./Education";
 import Courses from "./Courses";
+import CurrentStudy from "./CurrentStudy";
 
 const useStyles = makeStyles((theme) => ({
     root: {
@@ -40,6 +41,11 @@ export default function MainPage(props) {
             <Grid item xs={12}>
                 <Section title={cv.profile.title} expanded={cv.profile.expanded}>
                     <Profile data={cv.profile}/>
+                </Section>
+            </Grid>
+            <Grid item xs={12}>
+                <Section title={cv.currentStudy.title} expanded={cv.currentStudy.expanded}>
+                    <CurrentStudy data={cv.currentStudy}/>
                 </Section>
             </Grid>
             <Grid item xs={12}>

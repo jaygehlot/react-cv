@@ -1,3 +1,27 @@
 node_modules
 .idea
 build
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+.vscode/
+
+pids
+logs
+results
+
+npm-debug.log
+coverage
+tmp
+issues/
+test/fixtures/test*
+
+# Mac
+.DS_Store
